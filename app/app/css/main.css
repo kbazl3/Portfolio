@@ -25,7 +25,7 @@ blockquote, q {
     width:250px;
     height:250px;
     border-radius: 50%;
-    margin: -10px auto -20px auto;
+    margin: 30px auto -20px auto;
 }
 .imgContainer {
     display: flex;
@@ -335,8 +335,8 @@ a.link:hover {
 .no-js nav .menu-icon {
     display: none
 }
-.no-touch nav ul li a:hover {
-    background: #dd4f99
+nav ul li a:hover {
+    background: #dd4f99 !important
 }
 .no-touch nav ul li a:hover .arrow {
     background: #dd4f99 !important
@@ -481,7 +481,7 @@ nav ul li.active:nth-child(3) .arrow {
 }
 #clients .image-wrap {
     position: relative;
-    max-width: 668px
+    max-width: 768px
 }
 #clients .image-wrap img {
     max-width: 768px;
