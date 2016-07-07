@@ -673,6 +673,16 @@ nav ul li.active:nth-child(3) .arrow {
 #sosumi ul .linkedin a:hover {
     background-position: left top
 }
+#sosumi ul .codepen a {
+    background: url("../images/codepenGray.png") no-repeat;
+    background-size: 100% auto;
+    background-position: left bottom;
+    width: 32px;
+    height: 32px
+}
+#sosumi ul .codepen a:hover {
+    background: url("../images/codepenblue.png") no-repeat;
+}
 .enter-setup {
     border: 10px solid red;
     position: absolute;
